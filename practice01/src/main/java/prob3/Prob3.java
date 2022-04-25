@@ -28,7 +28,6 @@ public class Prob3 {
 			}
 			System.out.println(odd);
 		}
-		
 			scanner.close();
 	}
 }
