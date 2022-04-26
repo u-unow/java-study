@@ -4,8 +4,12 @@
 	<artifactId>java-study</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	
+	
+	
 	<modules>
 		<module>chapter01</module>
 		<module>practice01</module>
+		<module>practice02</module>
 	</modules>
 </project>
