@@ -1,12 +1,13 @@
-package paint;
+package com.douzone.paint.point;
 
 public class ColorPoint extends Point {
 	private String color;
 
 	public ColorPoint(int x, int y, String color) {
 		// TODO Auto-generated constructor stub
-		setX(x);
-		setY(y);
+//		setX(x);
+//		setY(y);
+		super(x,y);
 		this.color = color;
 	}
 
