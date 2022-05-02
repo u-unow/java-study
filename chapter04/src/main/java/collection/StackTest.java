@@ -20,6 +20,7 @@ public class StackTest {
 		s.push("둘리");
 		s.push("마이콜");
 		s.push("또치");
+		//peek는 팝당할 변수를 팝하지않고 보여주기만함
 		System.out.println(s.pop()+s.peek()+"\n"+s.pop());
 	}
 
