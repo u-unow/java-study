@@ -17,6 +17,11 @@ public class StringTest02 {
 		System.out.println(s3);
 		System.out.println(s4);
 		System.out.println(s5);
+		System.out.println(equalsHello(null));
+	}
+		private static boolean equalsHello(String s) {
+
+			return "hello".equals(s);
 	}
 
 }
