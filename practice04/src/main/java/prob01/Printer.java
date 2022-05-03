@@ -23,7 +23,7 @@ public class Printer {
 		for (T t : ts) {
 			System.out.println(t+" ");
 		}
-		System.out.println(" ");
+		System.out.println("");
 	}
 
 	public int sum(int... nums) {
