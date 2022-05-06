@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.douzone</groupId>
@@ -17,4 +18,26 @@
 		<module>chapter04</module>
 		<module>practice05</module>
 	</modules>
+=======
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.douzone</groupId>
+	<artifactId>java-study</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	
+	
+	
+	<modules>
+		<module>chapter01</module>
+		<module>practice01</module>
+		<module>practice02</module>
+		<module>chapter03</module>
+		<module>practice03</module>
+		<module>practice04</module>
+		<module>chapter04</module>
+		<module>practice05</module>
+		<module>network</module>
+	</modules>
+>>>>>>> branch 'master' of https://github.com/u-unow/java-study
 </project>
