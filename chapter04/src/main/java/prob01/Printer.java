@@ -24,7 +24,7 @@ public class Printer {
 			System.out.println(t+" ");
 		}
 		System.out.println("");
-	}
+	} 
 
 	public int sum(int... nums) {
 		int sum = 0;
